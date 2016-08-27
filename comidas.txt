@@ -3,5 +3,9 @@ las comidas que me gustan
 - papa a la huancaina
 - anticuchos
 - ocopa
+<<<<<<< HEAD
 - cuausa
+=======
+- ají de gallina
+>>>>>>> origin/master
 - sancochado
